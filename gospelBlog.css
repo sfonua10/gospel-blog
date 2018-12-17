@@ -1,0 +1,13 @@
+.img-fluid{
+	width: 350px;
+	height: 250px;
+}
+
+p{
+	font-size: 1.2em;
+	font-weight: lighter;
+}
+
+h2 {
+	font-family: 'Source Sans Pro', sans-serif;
+}
